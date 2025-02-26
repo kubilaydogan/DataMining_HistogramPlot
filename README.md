@@ -1,0 +1,1 @@
+### Sample of Creating a Histogram Plot![](img/plot.png)
